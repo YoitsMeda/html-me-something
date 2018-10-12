@@ -1,0 +1,39 @@
+html, body {
+  margin: 0;
+  padding: 0,
+
+}
+body {
+background:
+url()
+}
+* {
+  /* background-color: red; */
+  font-family: '', sans-serif;
+  font-weight: 700;
+  text-transfrom: uppercase;
+}
+.container {
+  margin: 0 auto;
+  max-width: 940px;
+  padding: 0 10px;
+}
+.header {
+  background: url(https://pa1.narvii.com/5933/cbd60c4e7a9da7f6b869e138c8105ebb2460db9e_hq.gif
+  ) no-repeat center;
+  background-size: 700px;
+  height: 500px;
+  text-align: center;
+}
+.past {
+  background: url(https://pa1.narvii.com/5933/cbd60c4e7a9da7f6b869e138c8105ebb2460db9e_hq.gif
+  ) no-repeat center;
+  background-size: 700px;
+  height: 500px;
+  text-align: center;
+  margin: auto;
+  max-width: 500px;
+}
+span ul {
+  background-color: red;
+}
